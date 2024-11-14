@@ -1,5 +1,5 @@
 # sensei-petshop
-A pets Script for qbcore framework
+A pet Script for qbcore framework
 
 install all the necessities from the install folder
 the map for the shop is also included
