@@ -1,0 +1,23 @@
+petfood = { 
+    name = "petfood", 
+    label = "Pet Food", 
+    weight = 500, 
+    type = "item", 
+    image = "petfood.png", 
+    unique = false, 
+    useable = false, 
+    shouldClose = false, 
+    description = "Food" 
+},
+
+tennisball = { 
+    name = "tennisball", 
+    label = "Tennis Ball", 
+    weight = 500, 
+    type = "item", 
+    image = "tennisball.png", 
+    unique = false, 
+    useable = true, 
+    shouldClose = false, 
+    description = "A ball to play fetch with pets" 
+},
