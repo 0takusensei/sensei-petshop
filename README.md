@@ -2,6 +2,7 @@
 A pets Script for qbcore framework
 
 install all the necessities from the install folder
+the map for the shop is also included
 
 ****FEATURES******
 1. various pets
